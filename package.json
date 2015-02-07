@@ -1,0 +1,32 @@
+{
+	"keywords": [
+		"bricks",
+		"javascript",
+		"js",
+		"locale",
+		"string"
+	],
+	"main": "js/dist/locale.js",
+	"devDependencies": {
+		"aureooms-node-package": "^2.0.2"
+	},
+	"dependencies": {},
+	"homepage": "http://aureooms.github.io/js-locale/",
+	"bugs": {
+		"url": "https://github.com/aureooms/js-locale/issues"
+	},
+	"description": "localisation code bricks for JavaScript",
+	"repository": {
+		"url": "https://github.com/aureooms/js-locale.git",
+		"type": "git"
+	},
+	"license": "AGPL-3.0",
+	"name": "aureooms-js-locale",
+	"author": "aureooms",
+	"scripts": {
+		"test": "./node_modules/.bin/aureooms-node-package-test",
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"doc": "./node_modules/.bin/groc"
+	},
+	"version": "0.0.0"
+}

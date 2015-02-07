@@ -1,0 +1,11 @@
+{
+	"description": "localisation code bricks for JavaScript",
+	"license": "AGPL-3.0",
+	"name": "aureooms-js-locale",
+	"repo": "aureooms/js-locale",
+	"main": "js/dist/locale.js",
+	"scripts": [
+		"js/dist/locale.js"
+	],
+	"version": "0.0.0"
+}

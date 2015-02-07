@@ -33,11 +33,31 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-locale/js/src/dummy.js",
-        "projectPath": "js/src/dummy.js",
-        "targetPath": "dummy",
-        "pageTitle": "dummy",
-        "title": "dummy"
+        "sourcePath": "/home/aureooms/dev/js/js-locale/js/src/asc.js",
+        "projectPath": "js/src/asc.js",
+        "targetPath": "asc",
+        "pageTitle": "asc",
+        "title": "asc"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-locale/js/src/desc.js",
+        "projectPath": "js/src/desc.js",
+        "targetPath": "desc",
+        "pageTitle": "desc",
+        "title": "desc"
       },
       "depth": 1,
       "outline": []

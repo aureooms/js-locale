@@ -13,3 +13,4 @@ localisation code bricks for JavaScript
 [![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-locale.svg?style=flat)](https://codeclimate.com/github/aureooms/js-locale)
 [![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-locale.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-locale)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-locale.svg?style=flat)](https://github.com/aureooms/js-locale/issues)
+[![Inline docs](http://inch-ci.org/github/aureooms/js-locale.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-locale)

@@ -8,7 +8,7 @@
 	],
 	"main": "js/dist/locale.js",
 	"devDependencies": {
-		"aureooms-node-package": "^2.0.2"
+		"aureooms-node-package": "^6.0.1"
 	},
 	"dependencies": {},
 	"homepage": "http://aureooms.github.io/js-locale/",

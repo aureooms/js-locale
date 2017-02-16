@@ -21,7 +21,7 @@
 		"type": "git"
 	},
 	"license": "AGPL-3.0",
-	"name": "aureooms-js-locale",
+	"name": "@aureooms/js-locale",
 	"author": "aureooms",
 	"scripts": {
 		"test": "./node_modules/.bin/aureooms-node-package-test",

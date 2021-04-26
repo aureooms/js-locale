@@ -13,11 +13,11 @@
 	"dependencies": {},
 	"homepage": "http://make-github-pseudonymous-again.github.io/js-locale/",
 	"bugs": {
-		"url": "https://github.com/aureooms/js-locale/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-locale/issues"
 	},
 	"description": "localisation code bricks for JavaScript",
 	"repository": {
-		"url": "https://github.com/aureooms/js-locale.git",
+		"url": "https://github.com/make-github-pseudonymous-again/js-locale.git",
 		"type": "git"
 	},
 	"license": "AGPL-3.0",

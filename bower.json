@@ -3,7 +3,7 @@
   "license": "AGPL-3.0",
   "name": "aureooms-js-locale",
   "main": "js/dist/locale.js",
-  "homepage": "http://aureooms.github.io/js-locale/",
+  "homepage": "http://make-github-pseudonymous-again.github.io/js-locale/",
   "ignore": [
     "js/index.js",
     "js/src",

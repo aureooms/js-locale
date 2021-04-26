@@ -1,4 +1,4 @@
-[js-locale](http://aureooms.github.io/js-locale)
+[js-locale](http://make-github-pseudonymous-again.github.io/js-locale)
 ==
 
 localisation code bricks for JavaScript
